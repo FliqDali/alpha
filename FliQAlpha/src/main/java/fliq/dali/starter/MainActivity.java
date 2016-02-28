@@ -190,7 +190,7 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onDestroy() {
-        
+        mBluetoothAdapter.stopLeScan(mLeScanCallback);
         super.onDestroy();
     }
 }
