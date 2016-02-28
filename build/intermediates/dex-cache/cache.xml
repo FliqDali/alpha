@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/benribovich/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/benribovich/AndroidStudioProjects/FliqAlpha/FliQAlpha/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-bac819b78608b221d2c5d9ff5af0e1656c2881f9.jar" />
+    </item>
+    <item
+        jar="/Users/benribovich/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="/Users/benribovich/AndroidStudioProjects/FliqAlpha/FliQAlpha/build/intermediates/pre-dexed/debug/parse-android-1.13.0-257e98d1641996897bd3162e9808612f1ff8a454.jar" />
+    </item>
+    <item
+        jar="/Users/benribovich/AndroidStudioProjects/FliqAlpha/FliQAlpha/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/benribovich/AndroidStudioProjects/FliqAlpha/FliQAlpha/build/intermediates/pre-dexed/debug/classes-23c559b2e4f5fdac089edd03cbdbaf438fa1ffa8.jar" />
+    </item>
+    <item
+        jar="/Users/benribovich/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/benribovich/AndroidStudioProjects/FliqAlpha/FliQAlpha/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-7f6fe5c64bd5db5af1f68eddb92333df11bb76d1.jar" />
+    </item>
+    <item
+        jar="/Users/benribovich/AndroidStudioProjects/FliqAlpha/FliQAlpha/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/benribovich/AndroidStudioProjects/FliqAlpha/FliQAlpha/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-e991b14dae3c29f92bd95243fc00c84828c258ba.jar" />
+    </item>
+    <item
+        jar="/Users/benribovich/AndroidStudioProjects/FliqAlpha/FliQAlpha/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/benribovich/AndroidStudioProjects/FliqAlpha/FliQAlpha/build/intermediates/pre-dexed/debug/classes-32cc0f492cd8560bfeff5457125284ce9ceb0527.jar" />
+    </item>
+
+</items>
